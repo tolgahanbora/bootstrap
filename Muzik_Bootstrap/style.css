@@ -1,0 +1,143 @@
+
+
+header{
+    position: relative;
+    display: block;
+    background-color:peachpuff;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 86px;
+    padding-left: 20px;
+    padding-right: 0;
+   
+}
+
+/*Logo başlangıç */
+h1{
+    color:blueviolet;
+    font-size: 5em;
+}
+/*Logo bitiş */
+    
+/*Header bitiş-yukarı menü */
+
+ ul{
+    list-style: none;
+    word-spacing: 60px;
+    float: right;
+    background-color: peachpuff;
+    padding: 20px;
+}
+/*Menü içerikleri Bitiş */
+.logohref{
+    text-decoration: none;
+}
+/*Liste ve menü içerikleri başlangıç */
+li{
+    display: inline;
+    margin-top: auto;
+    position: relative;
+    flex: auto;
+    margin-top: 20px;
+}
+/*Liste içerikleri bitiş */
+
+/*Menu dekorasyonu baslangic */
+
+.menu{
+    text-decoration: none;
+    font-size: 2em;
+} 
+/*Menu dekorasyonu bitiş */
+
+
+/*Body kısmı bitiş */
+
+/*hayali kutu başlangıç  */
+.container-fluid{
+    position: relative;
+    align-items: center;
+    left: 550px;
+    top: 250px;
+
+}
+/*ana içerik section başlangıç  */
+section{
+    position: absolute;
+    margin-right: 200px;
+
+}
+/* paragraf başlangıç */
+p{
+    position: absolute;
+    left: 400px;
+    top: 40px;
+    
+   padding-top: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: large;
+}
+/* 8lik sütun başlangıç  */
+.col-sm-8{
+    position: absolute;
+    right: 690px;
+    top: 0;
+    height: 300px;
+   
+}
+/*4lük sütun başlangıç  */
+.col-4{
+    position: absolute;
+   
+    
+    top: 0;
+    left: 350px;
+    height: 300px;
+    
+}
+/*jumbotron article başlangıç */
+.article{
+    position: absolute;
+    display: block;
+    
+}
+/*jumbotron başlangıç */
+.jumbotron{
+    position: relative;
+    border: 20px;
+    display: inline;
+    top: 20px;
+    margin-top: 200px;
+    width: 300px;
+    height: 70px;
+}
+/*Yukarı paragraf başlangıç*/
+.lead{
+    position: relative;
+    width: 800px;
+    height: 68px;
+    
+}
+/*Buton birinci başlangıç */
+.btn{
+    position: relative;
+    top: 150px;
+    left: 720px;
+    margin-top:120px ;
+}
+
+
+hr{
+    position: relative;
+    top: 300px;
+    left: 0;
+    
+    background-color: black;
+}
+
+   
+   
+
+
+
